@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/node": "16.11.43",
     "@types/react": "17.0.45",
-    "autoprefixer": "10.4.8",
+    "autoprefixer": "10.4.19",
     "eslint": "8.22.0",
     "eslint-config-next": "12.2.2",
     "postcss": "8.4.14",
